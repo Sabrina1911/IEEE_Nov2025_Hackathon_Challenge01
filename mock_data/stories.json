@@ -1,0 +1,65 @@
+[
+  {
+    "title": "The Winter of 1979_E1",
+    "language": "Inuktitut",
+    "region": "Nunavut",
+    "audio_file": "mock_data/story_20251115_202918.wav",
+    "original": "(Demo) [Offline AI transcription of your recording would appear here. You can edit this text to match the elder's exact words.]",
+    "translation": "(Demo) It was the coldest winter we remember, when the snowbanks hid the houses.",
+    "recorded_by_role": "Elder / Knowledge Keeper"
+  },
+  {
+    "title": "Story Line_Sample1",
+    "language": "Ojibwe",
+    "region": "Nunavut",
+    "audio_file": "mock_data/story_20251115_204624.wav",
+    "original": "Sample 1",
+    "translation": "Sample 1",
+    "recorded_by_role": "Elder / Knowledge Keeper"
+  },
+  {
+    "title": "The Winter of 1979_E2",
+    "language": "Cree",
+    "region": "Nunavut",
+    "audio_file": "mock_data/story_20251115_210557.wav",
+    "original": "(Demo) [Offline AI transcription of your recording would appear here. You can edit this text to match the elder's exact words.]",
+    "translation": "(Demo) It was the coldest winter we remember, when the snowbanks hid the houses.",
+    "recorded_by_role": "Elder / Knowledge Keeper"
+  },
+  {
+    "title": "The Winter of 1979_E3",
+    "language": "Ojibwe",
+    "region": "Nunavut",
+    "audio_file": "mock_data/story_20251115_221219.wav",
+    "original": "(Demo) [Offline AI transcription of your recording would appear here. You can edit this text to match the elder's exact words.]",
+    "translation": "(Demo) It was the coldest winter we remember, when the snowbanks hid the houses.",
+    "recorded_by_role": "Elder / Knowledge Keeper"
+  },
+  {
+    "title": "Remembering Home Through the Lights",
+    "language": "Cree",
+    "region": "Nunavut",
+    "audio_file": "mock_data/story_20251116_004539.wav",
+    "original": "“Kîsikâw pîsim kîwêwin kîsikohk nipîkiskwêyin.\nNitanis mâka nika kîsikâw nêhiyaw ᐊᐧᓯᐧᑲᐦᐃᑲᓂᕆᔭᐤ.\nKîsikâw nistam pîkiskwêwin mâna ayisiyiniwak ohci.”",
+    "translation": "“When the sky glows, I remember home.\nEven in the city, I am still Cree.\nThe stories are the voice of our people.”",
+    "recorded_by_role": "Youth / Family Member"
+  },
+  {
+    "title": "The Night the Northern Lights Danced",
+    "language": "Cree",
+    "region": "Nunavut",
+    "audio_file": "mock_data/story_20251116_031220.wav",
+    "original": "Tânisi — (Translated from Cree). That night, the sky was alive with dancing lights. My grandmother told us not to whistle, or the spirits would come closer. She said the northern lights were our ancestors playing a game across the sky, laughing in colors we could not name.",
+    "translation": "Hello — That night, the sky shimmered with living light.  My grandmother warned us never to whistle, for the spirits might draw near.  She told us the northern lights were our ancestors dancing above,  playing their ancient games and laughing in colors the earth has forgotten to name",
+    "recorded_by_role": "Elder / Knowledge Keeper"
+  },
+  {
+    "title": "The Winter of 1979",
+    "language": "Inuktitut",
+    "region": "Nunavut",
+    "audio_file": "mock_data/story_20251116_092546.wav",
+    "original": "(Demo) [Offline AI transcription of your recording would appear here. You can edit this text to match the elder's exact words.]",
+    "translation": "(Demo) It was the coldest winter we remember, when the snowbanks hid the houses.",
+    "recorded_by_role": "Elder / Knowledge Keeper"
+  }
+]
